@@ -142,7 +142,7 @@ These exercises are all about failure modes to RMarkdown. Go ahead and switch ov
 
 # Markdown syntax
 
-Markdown is one of the simplest document languages around, that is an open standard and can be converted into `.tex`, `.docx`, `.html`, `.pdf`, etc. This is the main workhorse of RMarkdown and is very powerful. You can [learn Markdown in five (!) minutes](https://learnxinyminutes.com/docs/markdown/) Other resources include [http://rmarkdown.rstudio.com/authoring_basics.html](), and [this cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf). 
+Markdown is one of the simplest document languages around, that is an open standard and can be converted into `.tex`, `.docx`, `.html`, `.pdf`, etc. This is the main workhorse of RMarkdown and is very powerful. You can [learn Markdown in five (!) minutes](https://learnxinyminutes.com/docs/markdown/) Other resources include <http://rmarkdown.rstudio.com/authoring_basics.html> , and [this cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf). 
 
 You can do some pretty cool tricks with Markdown, but these are the basics:
 
